@@ -1,5 +1,8 @@
 # blum
-#
+
+.This script taken from Mueid Mursalin Rifat
+# 
+
 https://play.google.com/store/apps/details?id=site.mises.browser
 
 # Add Extensions
@@ -10,3 +13,6 @@ https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekinieck
 #2
 
 https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+
+
+# Video 
