@@ -2,6 +2,7 @@
 #
 https://play.google.com/store/apps/details?id=site.mises.browser
 
+# Add Extensions
 #1
 
 https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe
